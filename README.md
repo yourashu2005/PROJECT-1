@@ -28,6 +28,7 @@ Scikit-learn / XGBoost – Machine learning
 NLTK / SpaCy / Transformers (BERT) – NLP tasks
 NetworkX – Relational/graph modeling
 Matplotlib / Seaborn – Data visualization
+
 🚀 Future Work
 Integrate deep learning models like LSTM or BERT for better contextual understanding.
 Apply to multilingual review datasets.
